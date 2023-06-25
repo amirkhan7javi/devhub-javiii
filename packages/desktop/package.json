@@ -87,7 +87,7 @@
     "electron-updater": "4.3.5",
     "jsonfile": "6.1.0",
     "mkdirp": "1.0.4",
-    "semver": "7.3.4"
+    "semver": "7.5.2"
   },
   "devDependencies": {
     "@types/electron-devtools-installer": "2.2.0",
